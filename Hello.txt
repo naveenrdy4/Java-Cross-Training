@@ -1,1 +1,2 @@
 Hello welcome to java cross training
+Welcome to training 
